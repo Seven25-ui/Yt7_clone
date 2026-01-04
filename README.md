@@ -5,7 +5,7 @@
 **Description:**  
 A simple front-end clone of YouTube to demonstrate responsive UI, layout skills, and interactive elements.
 
-**Live Demo:** https://seven25-ui.github.io/Yt7_clone/ [Add link if deployed]
+**Live Demo:** https://seven25-ui.github.io/Yt7_clone/ 
 
 **Features:**  
 - Responsive video gallery layout  
